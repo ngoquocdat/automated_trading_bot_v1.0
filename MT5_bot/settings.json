@@ -1,0 +1,14 @@
+{
+    "mt5": {
+        "login": {
+            "username": "123992590",
+            "password": "Demo5@211993!",
+            "server": "Exness-MT5Trial7"
+        },
+        "account": "metatrader93",
+        "password": "ejSvUqwX",
+        "mt5_pathway": "C:/Program Files/MetaTrader5/terminal64.exe",
+        "symbols": ["GBPCHFm"],
+        "timeframe": "M15"
+    }
+}
